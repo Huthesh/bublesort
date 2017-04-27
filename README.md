@@ -1,3 +1,3 @@
 # buble sort
 
-Buble Sort implemention in GOO
+Buble Sort implemention in GO
